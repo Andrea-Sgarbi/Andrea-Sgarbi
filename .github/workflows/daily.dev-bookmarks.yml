@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Andrea-Sgarbi/Andrea-Sgarbi@master
+      - uses: Andrea-Sgarbi/Andrea-Sgarbi@main
         with:
           comment_tag_name: "daily.dev BOOKMARKS"
           feed_list: "https://api.daily.dev/rss/b/32adb86f-2088-45be-995e-13839e1b3de1"
