@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "DEVTO-BLOG-LIST"
+          comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://api.daily.dev/rss/b/32adb86f-2088-45be-995e-13839e1b3de1"
