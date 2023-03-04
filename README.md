@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-<!--  DEVTO-BLOG-LIST:START -->
-<!--  DEVTO-BLOG-LIST:END -->
+# Blog Posts
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
