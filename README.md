@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-<!--  daily.dev BOOKMARKS:START -->
-<!--  daily.dev BOOKMARKS:END -->
+<!--  DEVTO-BLOG-LIST:START -->
+<!--  DEVTO-BLOG-LIST:END -->
 
