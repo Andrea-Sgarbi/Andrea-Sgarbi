@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Andrea Sgarbi 👋
 
+<details align="center">
+   <summary> Last read blog posts :book: </summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [No title](https://app.daily.dev/posts/5B9ShiWe5?utm_source=rss&utm_medium=bookmarks&utm_campaign=jZu2oVM8P7ANqyhPj594t)
@@ -9,6 +11,7 @@
 - [No title](https://app.daily.dev/posts/lYg4Averp?utm_source=rss&utm_medium=bookmarks&utm_campaign=jZu2oVM8P7ANqyhPj594t)
 <!-- BLOG-POST-LIST:END -->
 
+</details>
 
 ---
 
