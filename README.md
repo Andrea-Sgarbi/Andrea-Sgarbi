@@ -10,6 +10,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-### SUPPORT
+---
 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" align="center"/>](https://www.buymeacoffee.com/Andrea.Sgarbi)
+<h3 align="center">SUPPORT</h3>
+
+<p align="center"><a href="https://www.buymeacoffee.com/Andrea.Sgarbi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 210px !important;" ></a></p>
