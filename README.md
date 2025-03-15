@@ -2,12 +2,15 @@
 
 ---
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andrea-Sgarbi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<h3 align="center">GITHUB STATS</h3>
+
+![Andrea-Sgarbi's Github Stats](https://github-readme-stats.vercel.app/api?username=Andrea-Sgarbi&show_icons=true&hide_border=true&count_private=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-Sgarbi&layout=compact&hide_border=true&count_private=true&theme=github_dark&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-     
+    
 <details align="center">
-   <summary> Last read blog posts :book: </summary>
+   <summary> LATEST BLOG POST :book: </summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [No title](https://app.daily.dev/posts/5B9ShiWe5?utm_source=rss&utm_medium=bookmarks&utm_campaign=jZu2oVM8P7ANqyhPj594t)
