@@ -15,6 +15,10 @@
 
 ---
 
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andrea-Sgarbi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+---
+
 <h3 align="center">CERTIFICATION</h3>
 
 <p align="center"><a href="https://www.credly.com/badges/97089e2d-8495-4007-b49e-de2d9d0d58a5/public_url" target="_blank"><img src="./src/github-foundations.png" alt="GitHub Foundations" style="height: 100px !important;width: 100px !important;" ></a></p>
