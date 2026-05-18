@@ -49,11 +49,11 @@ Beyond my industrial automation expertise, I have a strong passion for general p
    <summary> LATEST BLOG POST :book: </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t Outsource the Learning](https://app.daily.dev/posts/ImeraOMcp?utm_source=rss&utm_medium=bookmarks&utm_campaign=jZu2oVM8P7ANqyhPj594t)
 - [5 Best Udemy Courses to Learn AI Engineering in 2025](https://app.daily.dev/posts/6NRTRsvc5?utm_source=rss&utm_medium=bookmarks&utm_campaign=jZu2oVM8P7ANqyhPj594t)
 - [No title](https://app.daily.dev/posts/HhnoOQQWR?utm_source=rss&utm_medium=bookmarks&utm_campaign=jZu2oVM8P7ANqyhPj594t)
 - [No title](https://app.daily.dev/posts/5B9ShiWe5?utm_source=rss&utm_medium=bookmarks&utm_campaign=jZu2oVM8P7ANqyhPj594t)
 - [Code Timeline Generator](https://app.daily.dev/posts/8d5kc29iZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=jZu2oVM8P7ANqyhPj594t)
-- [Data structures and algorithms cheat sheet for interviews](https://app.daily.dev/posts/BGTWOaguA?utm_source=rss&utm_medium=bookmarks&utm_campaign=jZu2oVM8P7ANqyhPj594t)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
